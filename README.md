@@ -16,3 +16,18 @@ In the report you can find reasoning behind visualisation stragergies, analysis 
 Vist the report [here](/Report.pdf).
 
 ## <a name="webpage"> How To View The Visualisations </a>
+
+To display my visualisations I created a HTML page in order to utilise the interactivity in the graphs.
+
+You can view the webpage by  :
+
+* Downloading the Zip file containing the webpage files [here](/FIV_HTML.zip)
+* Open the index.html file on your browser from within the FIV_HTML directory.
+
+Here is what the page looks like:
+
+<img src="readmeImg/img1.png" width="600" height="300">
+
+<img src="readmeImg/img2.png" width="600" height="300">
+
+<img src="readmeImg/img3.png" width="600" height="300">
