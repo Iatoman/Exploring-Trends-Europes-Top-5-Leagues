@@ -5,6 +5,7 @@ This repositry contains my first data visualisation project using R studio. The 
 # Repository Contents
 * [Report](#report)
 * [How To View The Visualisations](#webpage)
+* [Code](#code)
 
 
 
@@ -31,3 +32,8 @@ Here is what the page looks like:
 <img src="readmeImg/img2.png" width="600" height="300">
 
 <img src="readmeImg/img3.png" width="600" height="300">
+
+
+## <a name="code"> Code </a>
+
+The code is in a R notebook file, it can be viewed [here](/Rproject/visualisationNotebook.Rmd) 
