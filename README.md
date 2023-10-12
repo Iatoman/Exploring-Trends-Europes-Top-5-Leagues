@@ -1,4 +1,4 @@
-# First R Visualisation
+# Exploring Trends Europes Top 5 Leagues
 
 This repositry contains my first data visualisation project using R studio. The aim was to answer research questions in exploratory fashion which would lead me to ask further related questions.
 
